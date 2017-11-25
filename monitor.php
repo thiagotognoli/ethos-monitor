@@ -1,5 +1,6 @@
 <?php
-
+//Author: Thiago Tognoli Lopes - thitognoli-btc@yahoo.com.br
+//License AGPL
 //Import PHPMailer classes into the global namespace
 use PHPMailer\PHPMailer\PHPMailer;
 require 'vendor/autoload.php';
